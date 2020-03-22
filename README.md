@@ -8,7 +8,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 
 ![](img/eshop-webmvc-app-screenshot.png)
 
-## Azure DevOps - Build Status 
+## Azure DevOps - Build Status
 
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |
@@ -53,9 +53,9 @@ In the future more features will be implemented in the advanced scenario.
 **NEWS / ANNOUNCEMENTS**
 Do you want to be up-to-date on .NET Architecture guidance and reference apps like eShopOnContainers? --> Subscribe by "WATCHING" this new GitHub repo: https://github.com/dotnet-architecture/News
 
-## Updated for .NET Core 3.0
+## Updated for .NET Core 3.1 (LTS)
 
-eShopOnContainers is updated to .NET Core 3.0  "wave" of technologies. Not just compilation but also new recommended code in EF Core, ASP.NET Core, and other new related versions and a several significant changes.
+eShopOnContainers is updated to .NET Core 3.1  "wave" of technologies. Not just compilation but also new recommended code in EF Core, ASP.NET Core, and other new related versions and a several significant changes.
 
 **See more details in the [Release notes](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Release-notes) wiki page**.
 
@@ -85,11 +85,7 @@ You can download them and start reviewing these Guides/eBooks here:
 | [![](img/Microservices-cover-small.png)](https://aka.ms/microservicesebook) | [![](img/DevOps-Cover-small.png)](https://aka.ms/dockerlifecycleebook) | [![](img/xamarin-enterprise-patterns-ebook-cover-small.png)](https://aka.ms/xamarinpatternsebook) |
 | <sup> <a href='https://aka.ms/microservicesebook'>**Download .PDF**</a> </sup>  | <sup> <a href='https://aka.ms/dockerlifecycleebook'>**Download** </a>  </sup> | <sup> <a href='https://aka.ms/xamarinpatternsebook'>**Download**  </a>  </sup> |
 
-Download in other formats (**eReaders** like **MOBI**, **EPUB**) and other eBooks at the [.NET Architecture center](http://dot.net/architecture).
-
-If you have an e-book feedback, create a new issue here: <https://github.com/dotnet-architecture/ebooks/issues>
-
-However, we encourage you to download and review the [.NET Microservices: Architecture for Containerized .NET Applications e-book](https://aka.ms/microservicesebook) because the architectural styles, patterns, and technologies explained in the guide use this reference application when explaining most implementations, so you'll understand the context, design and decisions taken in the current architecture and internal designs much better.
+For more free e-Books check out [.NET Architecture center](https://dot.net/architecture). If you have an e-book feedback, let us know by creating a new issue here: <https://github.com/dotnet-architecture/ebooks/issues>
 
 ## Read further
 
